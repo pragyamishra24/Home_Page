@@ -1,0 +1,15 @@
+src
+├── components
+│   └── Navbar.jsx
+│
+├── data
+│   └── projectsData.js
+│
+├── pages
+│   ├── Home.jsx
+│   ├── Projects.jsx
+│   └── Contact.jsx
+│
+├── App.jsx
+├── main.jsx
+└── index.css
